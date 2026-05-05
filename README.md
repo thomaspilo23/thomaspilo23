@@ -1,6 +1,6 @@
 # Thomas Cristancho
 
-Researcher working at the intersection of systematic decision-making and constraint analysis. Focused on understanding why systems fail — and on the earlier question of whether they can succeed at all.
+Researching why systems fail — and whether they were viable to begin with.
 
 ---
 
@@ -19,7 +19,7 @@ Researcher working at the intersection of systematic decision-making and constra
 ## Selected Work
 
 [**failure-driven-quant-research**](https://github.com/thomaspilo23/failure-driven-quant-research)
-Seven post-mortems from applied quantitative research. Each documents a failure that changed the direction of the system — silent integration errors, mathematical infeasibility proofs, structural ceilings confirmed through exhaustive testing. No results. No implementation. Reasoning only.
+Seven post-mortems from applied quantitative research, each documenting a failure that reshaped the direction of the system. No results. No implementation. Reasoning only.
 
 ---
 
@@ -31,4 +31,4 @@ The most useful research finding is sometimes a definite no.
 
 ---
 
-Interested in problems where the constraint matters more than the solution.
+Interested in problems where constraints define the outcome more than the solution itself.
